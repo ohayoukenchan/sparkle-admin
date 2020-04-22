@@ -1,5 +1,6 @@
 <template>
   <v-app dark>
+    <h1>aaa</h1>
     <v-navigation-drawer
       v-model="drawer"
       :mini-variant="miniVariant"
